@@ -60,7 +60,7 @@ Supports strategic decision-making
 
 1️⃣ Sales Overview Dashboard
 
-![Sales Overview].(https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/sales%20overview.png).
+![Sales Overview].([https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/sales%20overview.png]).
 
 KPIs (Top Section)
 
