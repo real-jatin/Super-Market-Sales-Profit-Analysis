@@ -35,43 +35,71 @@ The dashboard was built using:
 🔴 Business Problem
 
 Retail businesses often struggle to:
+
 Understand which categories generate the most profit
+
 Identify high-performing regions
+
 Analyze the impact of discounts on profitability
+
 Track sales trends over time
 
 🎯 Goal of the Dashboard
 
 To build a centralized dashboard that:
+
 Tracks overall business performance
+
 Identifies profitable categories & regions
+
 Evaluates discount effectiveness
+
 Supports strategic decision-making
 
 📊 Dashboard Walkthrough
 
 1️⃣ Sales Overview Dashboard
+
 (https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/sales%20overview.png)
+
 KPIs (Top Section)
+
 Total Sales: 15M
+
 Total Profit: 3.75M
+
 Profit Margin: 25.05%
+
 Total Orders: 10K
+
 Monthly Sales Trend
+
 Highlights seasonal fluctuations
+
 Peak sales observed in September–November
+
 Sales vs Profit Comparison
+
 Shows relationship between revenue and profitability by month
 
 2️⃣ Category Performance Analysis
+
 (https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/categorical%20performance.png)
+
 Profit by Sub-category
+
 Top performers: Health Drinks, Soft Drinks
+
 Lower performers identified for optimization
+
 Sales vs Profit by Category
+
 Categories like Eggs, Meat & Fish and Snacks drive high sales
+
 Helps identify high-revenue vs high-margin categories
+
 City-wise Sales Distribution
+
 Reveals geographic demand patterns
 
 3️⃣ Regional Performance Analysis
