@@ -1,5 +1,4 @@
-# Super-Market-Sales-Profit-Analysis
-🛒 Super Mart Sales & Performance Dashboard
+# 🛒 Super Mart Sales & Performance Dashboard
 
 📌 Short Description / Purpose - 
 The Super Mart Dashboard is an interactive Power BI report designed to analyze sales, profit, customer orders, and discount impact across categories, regions, and time. It helps businesses uncover trends, optimize pricing strategies, and improve regional performance through data-driven insights.
