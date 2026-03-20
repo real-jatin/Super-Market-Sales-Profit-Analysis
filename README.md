@@ -7,18 +7,27 @@ The Super Mart Dashboard is an interactive Power BI report designed to analyze s
 🛠️ Tech Stack
 
 The dashboard was built using:
- 📊 Power BI Desktop – Main visualization tool
- 🔄 Power Query – Data cleaning and transformation
- 🧠 DAX (Data Analysis Expressions) – Measures for KPIs like Profit Margin, Total Sales, etc.
- 🧩 Data Modeling – Relationships between sales, categories, and regions
- 📁 File Format – .pbip (development), .png (dashboard previews)
+
+📊 Power BI Desktop – Main visualization tool
+
+🔄 Power Query – Data cleaning and transformation
+
+🧠 DAX (Data Analysis Expressions) – Measures for KPIs like Profit Margin, Total Sales, etc.
+
+🧩 Data Modeling – Relationships between sales, categories, and regions
+
+📁 File Format – .pbip (development), .png (dashboard previews)
 
 📂 Data Source
 
  -Super Mart retail dataset containing:
+ 
  -Sales transactions
+ 
  -Product categories & subcategories
+ 
  -Regional data
+ 
  -Order dates & discount details
 
 🌟 Features & Highlights
