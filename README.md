@@ -82,7 +82,7 @@ Sales vs Profit Comparison
 Shows relationship between revenue and profitability by month
 
 2️⃣ Category Performance Analysis
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/categorical%20performance.png)
 
 Profit by Sub-category
 
@@ -101,7 +101,7 @@ City-wise Sales Distribution
 Reveals geographic demand patterns
 
 3️⃣ Regional Performance Analysis
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/regional%20performance.png)
 
 Sales & Profit by Region
 
@@ -118,7 +118,7 @@ Map Visualization
 Geographic representation of sales & profit
 
 4️⃣ Discount & Profit Impact Analysis
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/product%20performance.png)
 
 Sales by Discount Bucket
 
