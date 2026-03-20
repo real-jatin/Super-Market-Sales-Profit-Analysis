@@ -59,7 +59,7 @@ Supports strategic decision-making
 📊 Dashboard Walkthrough
 
 1️⃣ Sales Overview Dashboard
-![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+![Dashboard Preview](https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/sales%20overview.png)
 
 KPIs (Top Section)
 
