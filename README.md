@@ -59,8 +59,7 @@ Supports strategic decision-making
 📊 Dashboard Walkthrough
 
 1️⃣ Sales Overview Dashboard
-
-![Sales Overview].([https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/sales%20overview.png]).
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 
 KPIs (Top Section)
 
@@ -83,8 +82,7 @@ Sales vs Profit Comparison
 Shows relationship between revenue and profitability by month
 
 2️⃣ Category Performance Analysis
-
-(https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/categorical%20performance.png)
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
 
 Profit by Sub-category
 
@@ -103,36 +101,59 @@ City-wise Sales Distribution
 Reveals geographic demand patterns
 
 3️⃣ Regional Performance Analysis
-(https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/regional%20performance.png)
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
 Sales & Profit by Region
+
 West region leads in both sales and profit
+
 South shows comparatively lower performance
+
 Orders Distribution (Pie Chart)
+
 Balanced order contribution across regions
+
 Map Visualization
+
 Geographic representation of sales & profit
 
 4️⃣ Discount & Profit Impact Analysis
-(https://github.com/real-jatin/Super-Market-Sales-Profit-Analysis/blob/main/product%20performance.png)
+![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+
 Sales by Discount Bucket
+
 Highest sales occur in 21–30% discount range
+
 Discount vs Profit Scatter Plot
+
 Shows how increasing discounts impact profitability
+
 Category-wise Discount Analysis
+
 Most categories have ~22–23% average discount
 
 Insight:
-Higher discounts increase sales volume but can reduce profit margins if not controlled.
-📈 Business Insights:
-💰 Balanced Profitability: Overall profit margin of ~25% indicates healthy business performance
-🛍️ Top Categories: Food-related categories dominate sales
-🌍 Regional Insight: West region is the strongest market
-🎯 Discount Strategy: Moderate discounts (20–30%) drive maximum sales
-📅 Seasonality: Sales peak in Q3–Q4, useful for planning inventory
-🚀 Business Impact
-Helps management optimize pricing strategies
-Enables targeted regional marketing
-Identifies high and low-performing categories
-Supports data-driven decision-making.
 
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+Higher discounts increase sales volume but can reduce profit margins if not controlled.
+
+📈 Business Insights:
+
+💰 Balanced Profitability: Overall profit margin of ~25% indicates healthy business performance
+
+🛍️ Top Categories: Food-related categories dominate sales
+
+🌍 Regional Insight: West region is the strongest market
+
+🎯 Discount Strategy: Moderate discounts (20–30%) drive maximum sales
+
+📅 Seasonality: Sales peak in Q3–Q4, useful for planning inventory
+
+🚀 Business Impact
+
+Helps management optimize pricing strategies
+
+Enables targeted regional marketing
+
+Identifies high and low-performing categories
+
+Supports data-driven decision-making.
