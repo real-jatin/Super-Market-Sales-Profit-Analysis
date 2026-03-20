@@ -134,3 +134,5 @@ Helps management optimize pricing strategies
 Enables targeted regional marketing
 Identifies high and low-performing categories
 Supports data-driven decision-making.
+
+Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
